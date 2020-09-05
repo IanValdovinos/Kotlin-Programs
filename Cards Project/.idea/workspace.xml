@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1a2bf29-5860-44c9-9d57-7d7b2c83fb74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WpJ02qsQOres6sYXukxBdfFIKt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GameKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Cards" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GameKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.GameKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1a2bf29-5860-44c9-9d57-7d7b2c83fb74" name="Default Changelist" comment="" />
+      <created>1579840375288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579840375288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="170" key="FileChooserDialogImpl" timestamp="1586046547126">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="413" y="170" key="FileChooserDialogImpl/0.0.1216.771@0.0.1216.771" timestamp="1586046547126" />
+    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1580672685202" />
+    <state width="1173" height="193" key="GridCell.Tab.0.bottom" timestamp="1584206820532">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="193" key="GridCell.Tab.0.bottom/0.0.1216.771@0.0.1216.771" timestamp="1584206820532" />
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1580494718131" />
+    <state width="1173" height="193" key="GridCell.Tab.0.center" timestamp="1584206820532">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="193" key="GridCell.Tab.0.center/0.0.1216.771@0.0.1216.771" timestamp="1584206820532" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1580494718131" />
+    <state width="1173" height="193" key="GridCell.Tab.0.left" timestamp="1584206820532">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="193" key="GridCell.Tab.0.left/0.0.1216.771@0.0.1216.771" timestamp="1584206820532" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1580494718128" />
+    <state width="1173" height="193" key="GridCell.Tab.0.right" timestamp="1584206820532">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state width="1173" height="193" key="GridCell.Tab.0.right/0.0.1216.771@0.0.1216.771" timestamp="1584206820532" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1580494718131" />
+    <state x="78" y="143" key="new project wizard" timestamp="1586046572795">
+      <screen x="0" y="0" width="1216" height="771" />
+    </state>
+    <state x="78" y="143" key="new project wizard/0.0.1216.771@0.0.1216.771" timestamp="1586046572795" />
+    <state x="109" y="162" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1580426096951" />
+    <state x="347" y="184" key="search.everywhere.popup" timestamp="1579841328825">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1579841328825" />
+  </component>
+</project>
